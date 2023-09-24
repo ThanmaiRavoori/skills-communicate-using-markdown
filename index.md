@@ -3,3 +3,6 @@
 ``` javascript
 var myVar = "I added a text and an image";
 ```
+- [X] Added a header
+- [X] Added an image
+- [X] Created a variable
